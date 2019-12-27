@@ -1,0 +1,6 @@
+com\mr\malldemo\service\impl\OmsServiceImpl.class
+com\mr\malldemo\controller\OmsController.class
+com\mr\malldemo\mapper\OmsEntityMapper.class
+com\mr\malldemo\MalldemoApplication.class
+com\mr\malldemo\entity\OmsEntity.class
+com\mr\malldemo\service\OmsService.class
