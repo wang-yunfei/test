@@ -21,6 +21,7 @@ public class OmsController {
     @ResponseBody
     public List<OmsEntity> omsList(){
         List<OmsEntity> list=omsService.omsList();
+        System.out.println(123);
         return list;
     }
 }
